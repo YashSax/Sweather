@@ -1,0 +1,7 @@
+{
+  "name": "Sweather",
+  "description": "Your intelligent wardrobe assistant that determines if it's sweater weather based on your location and personal clothing inventory.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
